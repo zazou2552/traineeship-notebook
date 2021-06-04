@@ -9,13 +9,13 @@ Building The Database:
 .. toctree::
    :maxdepth: 2
 
-    irinit
-    irdownload
-    irmanifest
-    irparse
-    irimport
-    irprevious
-    irbuild
+   irinit
+   irdownload
+   irmanifest
+   irparse
+   irimport
+   irprevious
+   irbuild
 
 Indices and tables
 ==================
