@@ -1,13 +1,12 @@
-notebook
+Traineeship Notebook
 ====================================
 
-Index
-^^^^^
+IrefIndex: non-redundant protein-protein interaction database
+^^^^^^^
+This notebook will contain all the steps that are executed to construct a new 
 
-Building The Database.::
 
-	print 'hello'
-	>> hello
+Building The Database:
 
 
 .. toctree::
