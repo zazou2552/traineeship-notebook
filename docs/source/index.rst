@@ -1,5 +1,5 @@
 Traineeship Notebook
-===================
+====================
 
 IRefIndex: non-redundant protein-protein interaction database
 =============================================================
