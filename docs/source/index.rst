@@ -24,9 +24,6 @@ Building The Database:
 
 Statistics Build:
 
-.. toctree::
-   :maxdepth: 2
-
    R-validation-script
    R-uniquevalues-script
    mitab
