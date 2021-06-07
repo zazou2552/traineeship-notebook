@@ -12,9 +12,9 @@ The irdata-config file can be eddited respectivly if the data sources change or 
 An example of these configurations is shown here:
 
 .. figure:: images/bar.png
-    :width: 500px
+    :width: 600px
     :align: center
-    :height: 250px
+    :height: 200px
     :alt: alternate text
     :figclass: align-center
      

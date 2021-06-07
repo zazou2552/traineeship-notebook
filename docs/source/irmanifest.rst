@@ -8,9 +8,9 @@ irmanifest makes a file with all the information of the acquired sources
 A part of the manifest file is shown below:
 
 .. figure:: images/irmanifest.png
-    :width: 900px
+    :width: 600px
     :align: center
-    :height: 300px
+    :height: 100px
     :alt: alternate text
     :figclass: align-center
 
@@ -19,5 +19,5 @@ A part of the manifest file is shown below:
 |
 Next step:
 
-:doc:`irmanifest`
+:doc:`irparse`
 
