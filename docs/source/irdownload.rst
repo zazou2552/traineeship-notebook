@@ -18,7 +18,7 @@ An example of these configurations is shown here:
     :alt: alternate text
     :figclass: align-center
      
-    *irdata-config(bar configuration)*
+    irdata-config(bar configuration)
 | 
 The sources can be downloaded seperatly as seen in the next code block::
 
