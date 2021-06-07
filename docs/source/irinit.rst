@@ -18,8 +18,6 @@ Irinit is then executed to fill the database with empty tables, the standard out
 
 next step:
 
-.. toctree::
-   :maxdepth: 2
+:ref:`irdownload`
 
-   irdownload
 
