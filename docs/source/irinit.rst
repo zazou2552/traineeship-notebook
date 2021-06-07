@@ -16,4 +16,10 @@ Irinit is then executed to fill the database with empty tables, the standard out
 	irinit --init 1>/data/irefindex18/logs/irinit.log 2>&1
 	
 
+next step:
+
+.. toctree::
+   :maxdepth: 2
+
+   irdownload
 
