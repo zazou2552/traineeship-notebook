@@ -18,6 +18,6 @@ Irinit is then executed to fill the database with empty tables, the standard out
 
 next step:
 
-:ref:`irdownload`
+:doc:`irdownload`
 
 
