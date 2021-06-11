@@ -34,6 +34,5 @@ Statistics Build:
 
    R-validation-script
    R-uniquevalues-script
-   mitab
 
 
