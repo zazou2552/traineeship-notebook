@@ -1,7 +1,7 @@
 irmanifest
 ==========
 | 
-irmanifest makes a file with all the information of the acquired sources 
+irmanifest makes a file with all the information of the acquired sources:: 
 
 	irmanifest --all 1>/data/irdata18/logs/irmanifest.log 2>&1 &
 

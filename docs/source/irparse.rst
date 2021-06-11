@@ -1,7 +1,7 @@
 irparse
 =======
 |
-irparse coverts the downloaded data to files which can be imported into the database
+irparse coverts the downloaded data to files which can be imported into the database::
 
         irparse --all 1>/data/irdata18/logs/irparse.log 2>&1 &
 
