@@ -5,12 +5,15 @@ irparse coverts the downloaded data to files which can be imported into the data
 
         irparse --all 1>/data/irdata18/logs/irparse.log 2>&1 &
 
+| 
 The data flow is shown below:
 
+
+
 .. figure:: images/unpack.png
-    :width: 700px
+    :width: 350px
     :align: center
-    :height: 50px
+    :height: 25px
     :alt: alternate text
     :figclass: align-center
 
@@ -20,9 +23,9 @@ The data flow is shown below:
 
 
 .. figure:: images/irparse.png
-    :width: 1000px
+    :width: 500px
     :align: center
-    :height: 50px
+    :height: 25px
     :alt: alternate text
     :figclass: align-center
 
@@ -31,9 +34,9 @@ The data flow is shown below:
 | 
 
 .. figure:: images/importparse.png
-    :width: 500px
+    :width: 300px
     :align: center
-    :height: 100px
+    :height: 75px
     :alt: alternate text
     :figclass: align-center
 
