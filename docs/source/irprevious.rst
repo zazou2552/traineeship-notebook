@@ -14,7 +14,7 @@ The output of this script are 4 files:
 | --sequence_archived_original
 
 
-|
+| :
 
 These files are moved from server to server by using scp::
 	scp /data/irdata17/sequences_archived_original  tom@psicquic-1804-2021:~/sequences_archived_original
