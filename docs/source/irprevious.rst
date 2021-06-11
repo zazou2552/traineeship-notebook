@@ -8,7 +8,7 @@ This command is executed on the previous build database. This script extracts th
 The output of this script are 4 files:
 
 |  
-| --rif2rigid
+| --rig2rigid
 | --rog2rogid
 | --sequence_archived
 | --sequence_archived_original
